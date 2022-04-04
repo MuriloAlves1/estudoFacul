@@ -2,4 +2,4 @@
 
 Criação de lógica de comparação entre duas cartas com dados da API, Cada vez que a página for atualizada, duas cartas aleatórias são apresentadas e comparadas entre si para indicar qual herói é vencedor.
 
-Link: herovsapi.netlify.app
+Link: https://herovsapi.netlify.app
